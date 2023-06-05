@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movix/static/css/main.e45fb457.css",
+    "main.js": "/movix/static/js/main.adfda6e5.js",
+    "index.html": "/movix/index.html",
+    "main.e45fb457.css.map": "/movix/static/css/main.e45fb457.css.map",
+    "main.adfda6e5.js.map": "/movix/static/js/main.adfda6e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.adfda6e5.js"
+  ]
+}
